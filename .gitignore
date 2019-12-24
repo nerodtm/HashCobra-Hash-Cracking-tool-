@@ -1,0 +1,9 @@
+/build/
+.cproject
+.project
+/cmake-build-*
+.idea
+PKGBUILD
+.vscode
+*.o
+*.db
